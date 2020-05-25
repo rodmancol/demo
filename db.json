@@ -1,9 +1,9 @@
   
 {
   "transactions": [
-    { "transactionId": 1, "transactionAmount":785.65, "cipherPan": "QWSDRW" },
-    { "transactionId": 2, "transactionAmount":13.42, "cipherPan": "SAASFD" },
-    { "transactionId": 3, "transactionAmount":24353.03, "cipherPan": "RVSSSG" }
+    { "id": 1, "transactionAmount":785.65, "cipherPan": "QWSDRW" },
+    { "id": 2, "transactionAmount":13.42, "cipherPan": "SAASFD" },
+    { "id": 3, "transactionAmount":24353.03, "cipherPan": "RVSSSG" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "transactionId": 1 },
